@@ -1,0 +1,23 @@
+# requirements.txt
+
+# Core
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+# Optional ML models
+xgboost
+lightgbm
+catboost
+
+# AWS
+boto3
+s3fs
+
+# Utilities
+jupyter
+python-dotenv
+joblib
+
