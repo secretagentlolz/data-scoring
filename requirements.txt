@@ -6,6 +6,7 @@ numpy
 scikit-learn
 matplotlib
 seaborn
+shap
 
 # Optional ML models
 xgboost
@@ -20,4 +21,9 @@ s3fs
 jupyter
 python-dotenv
 joblib
+
+# TensorFlow
+tensorflow
+tensorflow-metal
+tensorflow-decision-forests
 
